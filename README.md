@@ -8,7 +8,7 @@ I'm a **full-stack developer** and **AI enthusiast**, focused on designing and b
 
 I enjoy working across the full stack, with a particular interest in **distributed systems** and applying **machine learning** to real products
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/ali-mahmoud-88302024a" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&perline=1" alt="Skill Icons Matrix" />
   </a>
@@ -20,27 +20,27 @@ I enjoy working across the full stack, with a particular interest in **distribut
 ## Technical Tech Stack
 
 ### Languages
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,js,ts,c,cpp,dart,html,css&perline=12" alt="Skill Icons Matrix" />
   </a>
 </p>
 
 ### Frameworks & Libraries
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,flutter,react,vue,pytorch,tensorflow&perline=12" alt="Skill Icons Matrix" />
   </a>
 </p>
 
 ### Databases & Brokers
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,elasticsearch,kafka&perline=12" alt="Skill Icons Matrix" />
   </a></p>
 
 ### DevOps & Tools
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,firebase&perline=12" alt="Skill Icons Matrix" />
   </a>
