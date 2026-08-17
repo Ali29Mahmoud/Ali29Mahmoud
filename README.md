@@ -42,7 +42,7 @@ I enjoy working across the full stack, with a particular interest in **distribut
 ### DevOps & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,firebase&perline=12" alt="Skill Icons Matrix" />
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,firebase,supabase&perline=12" alt="Skill Icons Matrix" />
   </a>
 </p>
 
